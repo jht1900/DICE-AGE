@@ -19,5 +19,6 @@ Where shall we be in years to come?
 
 ![1990's Director 4 ](aa/1990's%20MACR/Macromedia%20Products%20Box%20Images/D4/D4%20Box%20Front.jpg)
 
-![2018 looking back to 2000's ](aa/2018/2000-DICE-vision.png)
+![2000's DICE powerpoint ](aa/2018/2000-DICE-vision.png)
+[2000's DICE powerpoint ](aa/2000's%20-%20ICE/-DICE%20Work-1/Presentation1.ppt)
 
