@@ -1,4 +1,5 @@
 # DICE-AGE
+
 Dice thru the ages.
 
 - Archive of John Henry Thompson's interactive art source code.
@@ -9,7 +10,7 @@ Where shall we be in years to come?
 
 # Inventions
 
-![1989 prior art](aa/1989%20prior-art%20letter%20to%20MACR/prior_art_1989-no-sig.jpg)
+[![1989 prior art](aa/1989%20prior-art%20letter%20to%20MACR/prior_art_1989-no-sig.jpg)](./aa)
 
 ![1990's Director 1 ](aa/1990's%20MACR/Macromedia%20Products%20Box%20Images/D1/D1%20Box%20Front.jpg)
 
@@ -21,4 +22,3 @@ Where shall we be in years to come?
 
 ![2000's DICE powerpoint ](aa/2018/2000-DICE-vision.png)
 [2000's DICE powerpoint ](aa/2000's%20-%20DICE/-DICE%20Work-1/Presentation1.ppt)
-
